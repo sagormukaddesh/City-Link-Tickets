@@ -1,0 +1,5 @@
+#selected-seat ul{
+    display: flex;
+    justify-content: space-between;
+
+}
